@@ -21,15 +21,15 @@ Pamiętaj! *Jesteś tym co jesz!* Nie daj się skusić darmowym ciasteczkiem…
 _____________________________________________________________________
 [cols="4*", options="header"]
 |===
-| Name
-| Group
+| Nazwa
+| BigMac
 
-|Firefox
-|Web Browser
+|Błonnik
+|3,1g
 
-|Ruby
-|Programming Language
+|Cukier
+|10%
 
-|TorqueBox
-|Application Server
+|Sól
+|38%
 |===
