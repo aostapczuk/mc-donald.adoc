@@ -24,7 +24,5 @@ _____________________________________________________________________
 Produkt,Bojj,Gen,hjo
 BigMac, jkl, jk,kj
 Frytki,Harlem Shake,Hip Hop
-Ciastko,Ho Hey,Folk Rock
-
 |====
 
