@@ -22,26 +22,26 @@ _____________________________________________________________________
 [cols="4*", options="header"]
 |===
 | Nazwa
-| Bonnik
+| Błonnik
 
 |Cukier
-|sól
+|Sól
 
-|BigMac
+|1.BigMac
+|3,1g
+
 |10%
-
-|11%
 |38%
 
-| Nazwa
-| Bonnik
+|2.Frytki
+|5g
 
-|Cukier
-|sól
+|1%
+|17%
 
-|BigMac
+|3.Ciasteczko
+|1.4g
+
 |10%
-
-|11%
-|38%
+|8%
 |===
