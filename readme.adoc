@@ -2,7 +2,7 @@
 
 Darmowe ciasteczko
 _____________________________________________________________________
-image::(http://www.mcdonalds.pl/assets/Uploads/ciastko-jablkowe.png)[ciasteczko]
+image::http://www.mcdonalds.pl/assets/Uploads/ciastko-jablkowe.png[ciasteczko]
 Jedno z naszych wyjść na przerwę obiadową przed zajciami z Technologii Int... zakończyło się darmowym ciasteczkiem otrzymanym za długie oczekiwanie na zamówienie.
 :laughing::laughing::laughing::laughing::laughing::laughing:
 Wniosek: Jedzenia za zdrowego nie mają! 
